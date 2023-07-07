@@ -43,6 +43,17 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/8.png)
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/1.png)
+
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/2.png)
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/3.png)
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/4.png)
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/5.png)
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/6.png)
+
+
+
 
 
 ### Задание 2
@@ -51,3 +62,6 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 Название таблицы | Название первичного ключа
 customer         | customer_id
 ```
+
+![img](https://github.com/Dokukin1/DDL-DML/blob/main/img/7.png)
+
